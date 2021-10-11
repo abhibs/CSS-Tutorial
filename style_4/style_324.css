@@ -1,0 +1,6 @@
+div.oa {
+  border: 3px solid red;
+  outline: yellow dotted 3px;
+  outline-offset: 5px;
+}
+
