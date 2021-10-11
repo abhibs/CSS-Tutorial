@@ -1,0 +1,12 @@
+h1.as {
+  text-decoration: underline;
+}
+
+h2.at {
+  text-decoration: overline;
+}
+
+h3.au {
+  text-decoration: line-through;
+}
+

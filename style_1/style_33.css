@@ -1,0 +1,9 @@
+body.ss {
+  border: 5px solid black;
+  padding: 40px;
+  background-image: url(../../assets/img/image_1.jpg);
+  background-repeat: no-repeat;
+  background-size: 80px;
+  background-origin: padding-box;
+}
+

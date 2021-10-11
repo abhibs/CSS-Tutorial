@@ -1,0 +1,8 @@
+h1.ax {
+  text-shadow: 2px 2px 5px red;
+}
+
+h2.ay {
+  text-shadow: 2px 2px 5px red, 5px 5px 8px blue;
+}
+

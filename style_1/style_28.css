@@ -1,0 +1,7 @@
+body.nn {
+  border: 5px dotted black;
+  padding: 40px;
+  background-color: khaki;
+  background-clip: padding-box;
+}
+

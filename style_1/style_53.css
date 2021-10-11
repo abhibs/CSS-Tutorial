@@ -1,0 +1,12 @@
+h1.az {
+  text-transform: uppercase;
+}
+
+h2.ba {
+  text-transform: lowercase;
+}
+
+h3.bb {
+  text-transform: capitalize;
+}
+

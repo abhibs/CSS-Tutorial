@@ -1,0 +1,6 @@
+p.bn {
+  width: 200px;
+  border: 1px solid black;
+  word-break: break-all;
+}
+

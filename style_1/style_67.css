@@ -1,0 +1,6 @@
+p.bo {
+  width: 200px;
+  border: 1px solid black;
+  word-break: keep-all;
+}
+
