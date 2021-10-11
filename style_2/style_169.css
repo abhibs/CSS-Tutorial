@@ -1,0 +1,20 @@
+div.hp {
+  position: fixed;
+  width: 400px;
+  height: 200px;
+  background-color: red;
+  z-index: 1;
+}
+
+h1.hq {
+  position: fixed;
+  top: 100px;
+  color: blue;
+  z-index: 3;
+}
+
+img.hr {
+  position: fixed;
+  z-index: 2;
+}
+

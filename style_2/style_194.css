@@ -1,0 +1,4 @@
+li.iu:nth-child(3n - 1) {
+  color: red;
+}
+

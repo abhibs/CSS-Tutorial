@@ -1,0 +1,14 @@
+table.gg {
+  border: 2px solid blue;
+  border-collapse: collapse;
+  background-color: red;
+}
+
+th.gh {
+  border: 2px solid blue;
+}
+
+td.gi {
+  border: 2px solid blue;
+}
+

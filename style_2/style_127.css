@@ -1,0 +1,11 @@
+table.fd {
+  border-collapse: separate;
+  width: 100%;
+  border: 1px solid black;
+  table-layout: auto;
+}
+
+td.fe {
+  border: 1px solid black;
+}
+

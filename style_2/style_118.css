@@ -1,0 +1,13 @@
+table.ea {
+  border: 2px double red;
+  border-collapse: separate;
+}
+
+th.eb {
+  border: 2px dotted blue;
+}
+
+td.ec {
+  border: 2px solid green;
+}
+

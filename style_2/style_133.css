@@ -1,0 +1,14 @@
+table.fu {
+  border: 2px solid blue;
+  border-collapse: collapse;
+}
+
+th.fv {
+  border: 2px solid blue;
+}
+
+td.fw {
+  border: 2px solid blue;
+  padding: 10px;
+}
+

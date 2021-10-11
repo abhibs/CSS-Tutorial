@@ -1,0 +1,14 @@
+table.fa {
+  border: 2px solid blue;
+  border-collapse: separate;
+  empty-cells: hide;
+}
+
+th.fb {
+  border: 2px solid blue;
+}
+
+td.fc {
+  border: 2px solid blue;
+}
+

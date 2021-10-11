@@ -1,0 +1,13 @@
+table.ed {
+  border: 2px solid blue;
+  border-collapse: separate;
+}
+
+th.ee {
+  border: 2px solid blue;
+}
+
+td.ef {
+  border: 2px solid blue;
+}
+

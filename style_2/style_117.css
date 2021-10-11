@@ -1,0 +1,13 @@
+table.dt {
+  border: 2px solid green;
+  border-collapse: separate;
+}
+
+th.du {
+  border: 2px solid green;
+}
+
+td.dv {
+  border: 2px solid green;
+}
+

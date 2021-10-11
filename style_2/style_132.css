@@ -1,0 +1,14 @@
+table.fq {
+  border: 2px solid blue;
+  border-collapse: collapse;
+}
+
+th.fr {
+  border: 2px solid blue;
+  padding: 10px;
+}
+
+td.ft {
+  border: 2px solid blue;
+}
+

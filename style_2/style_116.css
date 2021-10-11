@@ -1,0 +1,9 @@
+table.dr {
+  border: 2px solid red;
+  border-collapse: separate;
+}
+
+th.ds {
+  border: 2px solid red;
+}
+

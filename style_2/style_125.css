@@ -1,0 +1,14 @@
+table.ex {
+  border: 2px solid blue;
+  border-collapse: separate;
+  empty-cells: show;
+}
+
+th.ey {
+  border: 2px solid blue;
+}
+
+td.ez {
+  border: 2px solid blue;
+}
+

@@ -1,0 +1,16 @@
+table.fn {
+  border: 2px solid blue;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th.fo {
+  border: 2px solid blue;
+  height: 50px;
+}
+
+td.fp {
+  border: 2px solid blue;
+  height: 40px;
+}
+

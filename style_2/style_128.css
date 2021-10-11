@@ -1,0 +1,11 @@
+table.ff {
+  border-collapse: separate;
+  width: 100%;
+  border: 1px solid black;
+  table-layout: fixed;
+}
+
+td.fg {
+  border: 1px solid black;
+}
+

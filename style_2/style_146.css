@@ -1,0 +1,16 @@
+table.go {
+  border: 2px solid blue;
+}
+
+th.gp {
+  border: 2px solid blue;
+}
+
+td.gq {
+  border: 2px solid blue;
+}
+
+tr.colps {
+  visibility: collapse;
+}
+

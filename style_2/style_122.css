@@ -1,0 +1,14 @@
+table.em {
+  border: 2px solid blue;
+  border-collapse: separate;
+  border-spacing: 10px 50px;
+}
+
+th.en {
+  border: 2px solid blue;
+}
+
+td.eo {
+  border: 2px solid blue;
+}
+

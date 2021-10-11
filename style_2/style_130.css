@@ -1,0 +1,15 @@
+table.fk {
+  border: 2px solid blue;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th.fl {
+  border: 2px solid blue;
+  height: 50px;
+}
+
+td.fm {
+  border: 2px solid blue;
+}
+

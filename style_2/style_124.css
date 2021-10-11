@@ -1,0 +1,17 @@
+table.et {
+  border: 2px solid blue;
+  border-collapse: separate;
+}
+
+th.ev {
+  border: 2px solid blue;
+}
+
+td.ew {
+  border: 2px solid blue;
+}
+
+caption.eu {
+  caption-side: bottom;
+}
+

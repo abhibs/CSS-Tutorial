@@ -1,0 +1,15 @@
+table.fx {
+  border: 2px solid blue;
+  border-collapse: collapse;
+}
+
+th.fy {
+  border: 2px solid blue;
+  padding: 10px;
+}
+
+td.fz {
+  border: 2px solid blue;
+  padding: 10px;
+}
+

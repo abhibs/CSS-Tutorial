@@ -1,0 +1,16 @@
+a:link.gr {
+  color: red;
+}
+
+a:visited.gr {
+  color: green;
+}
+
+a:hover.gr {
+  color: yellow;
+}
+
+a:active.gr {
+  color: blue;
+}
+

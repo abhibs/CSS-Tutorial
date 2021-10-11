@@ -1,0 +1,14 @@
+table.fh {
+  border: 2px solid blue;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th.fi {
+  border: 2px solid blue;
+}
+
+td.fj {
+  border: 2px solid blue;
+}
+

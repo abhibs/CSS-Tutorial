@@ -1,0 +1,14 @@
+#img2 {
+  float: right;
+  margin-left: 20px;
+}
+
+#img3 {
+  float: left;
+  margin-right: 20px;
+}
+
+p.ii {
+  clear: both;
+}
+

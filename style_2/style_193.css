@@ -1,0 +1,4 @@
+li.it:nth-child(2n + 1) {
+  color: red;
+}
+
