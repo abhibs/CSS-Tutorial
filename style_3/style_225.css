@@ -1,0 +1,8 @@
+input.kg:read-only {
+  border: 3px solid red;
+}
+
+input.kg:read-write {
+  border: 3px solid blue;
+}
+

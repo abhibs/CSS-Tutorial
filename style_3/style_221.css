@@ -1,0 +1,18 @@
+input.kc[type="text"]:required {
+  border: 2px solid blue;
+  background: lime;
+}
+
+input.kc[type="email"]:required {
+  border: 2px solid blue;
+  background: lime;
+}
+
+input.kc[type="text"]:optional {
+  border: 2px solid red;
+}
+
+input.kc[type="number"]:optional {
+  border: 2px solid red;
+}
+

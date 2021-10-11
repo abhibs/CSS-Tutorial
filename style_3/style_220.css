@@ -1,0 +1,10 @@
+input.kb[type="text"]:required {
+  border: 2px solid blue;
+  background: lime;
+}
+
+input.kb[type="email"]:required {
+  border: 2px solid blue;
+  background: lime;
+}
+

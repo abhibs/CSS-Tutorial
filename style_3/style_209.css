@@ -1,0 +1,12 @@
+p.jk:lang(en) {
+  color: red;
+}
+
+p.jk:lang(kn) {
+  color: blue;
+}
+
+p.jk:lang(fr) {
+  color: green;
+}
+

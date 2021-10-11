@@ -1,0 +1,8 @@
+input.ka[type="text"]:disabled {
+  border: 3px solid red;
+}
+
+input.ka:enabled {
+  border: 3px solid blue;
+}
+

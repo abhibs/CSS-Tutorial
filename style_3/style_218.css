@@ -1,0 +1,4 @@
+input.jz[type="text"]:disabled {
+  border: 3px solid red;
+}
+

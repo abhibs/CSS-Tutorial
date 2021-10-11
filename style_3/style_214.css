@@ -1,0 +1,9 @@
+ul.jt a.ju {
+  color: red;
+  text-decoration: none;
+}
+
+p.jv:target {
+  background-color: blue;
+}
+

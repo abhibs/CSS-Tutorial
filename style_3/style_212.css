@@ -1,0 +1,12 @@
+ul.jp a.jq:link {
+  color: red;
+}
+
+ul.jp a.jq:hover {
+  color: blue;
+}
+
+ul.jp a.jq:active {
+  color: black;
+}
+

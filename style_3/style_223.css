@@ -1,0 +1,8 @@
+input.ke:in-range {
+  border: 2px solid blue;
+}
+
+input.ke:out-of-range {
+  border: 2px solid red;
+}
+

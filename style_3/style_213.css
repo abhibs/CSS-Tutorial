@@ -1,0 +1,16 @@
+ul.jr a.js:link {
+  color: red;
+}
+
+ul.jr a.js:hover {
+  color: blue;
+}
+
+ul.jr a.js:active {
+  color: black;
+}
+
+ul.jr a.js:visited {
+  color: green;
+}
+
